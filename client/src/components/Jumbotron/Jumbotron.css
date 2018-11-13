@@ -1,0 +1,13 @@
+.jumbotron {
+    clear: both;
+    padding-top: 120px;
+    text-align: center;
+    background-color: #f26232;
+    height: 500px;
+}
+
+h1, h3 {
+    font-family: 'Montserrat';
+    color: #000000;
+}
+
